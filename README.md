@@ -155,7 +155,7 @@ Set remote (git remote add origin <remote-url>).
 
 Push commits (git push -u origin main).
 
-      Submission Guidelines:
+Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
 - Provide screenshots or step-by-step instructions where applicable.
 - Cite any references or sources you use in your answers.
